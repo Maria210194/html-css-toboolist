@@ -20,7 +20,8 @@ body{
 }
 
 .nav{
-    border-bottom: 2px solid rgba(246,248,249,255);;
+    border-bottom: 3px solid rgba(246,248,249,255);
+    border-radius: 5%;
 }
 
 #bt-blue{
@@ -43,14 +44,15 @@ body{
 
 .corpo{
     margin: auto;
-    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 60px;
     align-items: center;
 }
 
 .nav, .centro{
     padding: 20px;
     background-color: white;
-    border-radius: 5%;
 }
 
 .lista{
