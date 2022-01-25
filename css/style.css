@@ -20,7 +20,7 @@ body{
 }
 
 .nav{
-    border-bottom: 3px solid rgba(246,248,249,255);
+    border-bottom: 5px solid rgba(246,248,249,255);
     border-radius: 5%;
 }
 
@@ -30,14 +30,14 @@ body{
     border: 0px;
     border-radius: 15%;;
     padding: 5px;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 #bt-grey{
     background-color: white;
     color: rgba(224,228,230,255);
     border: 1px solid rgba(224,228,230,255);
-    font-size: 12px;
+    font-size: 15px;
     padding: 5px;
     border-radius: 15%;
 }
@@ -77,38 +77,38 @@ li{
       font-size: small;
   }
 
-  #editorial{
+  .editorial{
     background-color: rgba(69,171,234,255);
   }
 
-  #goals{
+  .goals{
     background-color: rgba(156,114,228,255);
 }
 
-#recruiting{
+.recruiting{
     background-color: rgba(100,192,169,255);
 }
 
-#mobile{
+.mobile{
     background-color: rgba(242,158,51,255);
 }
 
-#website{
+.website{
     background-color: rgba(216,99,161,255);
 }
 
-#sales{
+.sales{
     background-color: rgba(176,201,38,255);
 }
 
-#done{
+.done{
     color: green;
     border: 1px solid green;
     border-radius: 50%;
     padding: 2px;  
 }
 
-#not-done{
+.not-done{
     color: red;
     border: 1px solid red;
     border-radius: 50%;
