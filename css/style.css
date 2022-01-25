@@ -39,9 +39,14 @@ body{
     display: inline-block;
 }
 
-ul {
+ul{
     list-style: none; /* Remove list bullets */
   }
+
+li{
+    padding: 7px;
+}
+
 
   .categoria{
       display: inline;
@@ -74,4 +79,18 @@ ul {
 
 #sales{
     background-color: rgba(176,201,38,255);
+}
+
+#done{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 2px;  
+}
+
+#not-done{
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
 }
