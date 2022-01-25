@@ -23,6 +23,24 @@ body{
     border-bottom: 2px solid rgba(246,248,249,255);;
 }
 
+#bt-blue{
+    background-color: rgba(71,173,241,255);
+    color: white;
+    border: 0px;
+    border-radius: 15%;;
+    padding: 5px;
+    font-size: 12px;
+}
+
+#bt-grey{
+    background-color: white;
+    color: rgba(224,228,230,255);
+    border: 1px solid rgba(224,228,230,255);
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 15%;
+}
+
 .corpo{
     margin: auto;
     padding: 100px;
